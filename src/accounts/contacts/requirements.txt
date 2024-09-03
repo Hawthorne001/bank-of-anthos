@@ -16,7 +16,7 @@ cachetools==5.3.3
     # via
     #   -r requirements.in
     #   google-auth
-certifi==2023.11.17
+certifi==2024.7.4
     # via
     #   -r requirements.in
     #   requests
@@ -214,7 +214,7 @@ typing-extensions==4.12.1
     # via
     #   opentelemetry-resourcedetector-gcp
     #   opentelemetry-sdk
-urllib3==2.2.1
+urllib3==2.2.2
     # via
     #   -r requirements.in
     #   requests
@@ -232,7 +232,7 @@ wrapt==1.16.0
     #   deprecated
     #   opentelemetry-instrumentation
     #   opentelemetry-instrumentation-sqlalchemy
-zipp==3.19.0
+zipp==3.19.1
     # via
     #   -r requirements.in
     #   importlib-metadata
